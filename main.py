@@ -9,7 +9,7 @@ from whatsapp import send_whatsapp
 
 
 # ==========================
-# Arduino Connection
+# Arduino Connection By Vihaan
 # ==========================
 
 try:
