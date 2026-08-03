@@ -9,7 +9,7 @@ from whatsapp import send_whatsapp
 
 
 # ==========================
-# Arduino Connection By Vihaan
+# Arduino Connection
 # ==========================
 
 try:
@@ -35,7 +35,7 @@ except Exception as e:
 
 
 # ==========================
-# Camera
+# Web Camera 
 # ==========================
 
 camera = cv2.VideoCapture(0)
